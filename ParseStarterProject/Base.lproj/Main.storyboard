@@ -93,7 +93,10 @@
                     </view>
                     <simulatedScreenMetrics key="simulatedDestinationMetrics" type="retina47"/>
                     <connections>
+                        <outlet property="loginButton" destination="3xK-wt-KdN" id="rU0-3V-q2h"/>
                         <outlet property="password" destination="dHJ-od-wDj" id="i7b-I0-y6c"/>
+                        <outlet property="registeredText" destination="3Wf-Te-WFE" id="cbK-fA-tVd"/>
+                        <outlet property="signupButton" destination="4Ec-g7-cNS" id="0Vw-Fb-2uZ"/>
                         <outlet property="username" destination="zph-GB-yMS" id="2s1-0l-cxv"/>
                     </connections>
                 </viewController>
