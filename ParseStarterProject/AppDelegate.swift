@@ -30,7 +30,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         Parse.enableLocalDatastore()
 
         //key
-
+        
         PFUser.enableAutomaticUser()
 
         let defaultACL = PFACL();
